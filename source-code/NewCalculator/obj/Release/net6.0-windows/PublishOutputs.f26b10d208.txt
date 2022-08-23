@@ -1,0 +1,5 @@
+C:\Users\XERAMED\Desktop\New Calc\NewCalculator.exe
+C:\Users\XERAMED\Desktop\New Calc\NewCalculator.dll
+C:\Users\XERAMED\Desktop\New Calc\NewCalculator.deps.json
+C:\Users\XERAMED\Desktop\New Calc\NewCalculator.runtimeconfig.json
+C:\Users\XERAMED\Desktop\New Calc\NewCalculator.pdb
